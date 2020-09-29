@@ -1,0 +1,65 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : 
+Receiving System Product I.D.: 
+File Name                    : F:\WINTER SCHOOL\LIBRARY models\10 inch Wheel\10 inch rubber wheel.igs
+Sending System               : Rhinoceros ( Feb 26 2015 )
+Preprocessor Version         : Trout Lake IGES 012 Feb 26 2015
+File Creation Date           : 151220.122958
+Model Creation Date          : 151220.122958
+Units                        : MM
+Model Space Scale            : 1
+Author                       : 
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              14
+  Highest number of significant digits:                     14
+  Average number of significant digits:                13.8745
+  Maximum distance to origin:                          200.135
+  Minimum distance to origin:                       0.00558108
+  Effective number of significant digits:                   14
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                             29        29
+110  Line                                             7         7
+124  Transformation matrix                           27        27
+126  Rational B-spline curve                        338       338
+128  Rational B-spline surface                     2002      2002
+142  Curve on a parametric surface                  183       183
+144  Trimmed parametric surface                     171       171
+314  Color definition                                 4         4
+406  Property                                         6         6
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       31
+Surface feature(s)                     1
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Thursday, November 28, 2019 14:27:19
+Finish time: Thursday, November 28, 2019 14:27:44
+Processing time: 0 days, 00 hours, 00 mins, 25 secs
